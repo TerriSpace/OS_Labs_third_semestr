@@ -10,10 +10,5 @@ a.out
 .idea/
 *.swp
 
-# Результаты работы программы
-data.txt
-out.txt
-err.txt
-
 # Системные файлы
 .DS_Store
