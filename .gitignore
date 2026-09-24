@@ -1,0 +1,19 @@
+# Скомпилированные бинарники
+*.o
+*.out
+client
+server
+a.out
+
+# Файлы редакторов
+.vscode/
+.idea/
+*.swp
+
+# Результаты работы программы
+data.txt
+out.txt
+err.txt
+
+# Системные файлы
+.DS_Store
